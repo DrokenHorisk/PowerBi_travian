@@ -1,0 +1,21 @@
+ID bat;Nom du Batiment;Niveau du batiment;Bois;Argile;Fer;CC;Conso cc;Durée construction;PC total;Temps de construction (BP)
+15;Batiment Principal;1;70;40;60;20;2;00:33:20;2;"100%"
+15;Batiment Principal;2;90;50;75;25;1;00:43:40;3;"96%"
+15;Batiment Principal;3;115;65;100;35;1;00:55:40;3;"93%"
+15;Batiment Principal;4;145;85;125;40;1;01:09:30;4;"90%"
+15;Batiment Principal;5;190;105;160;55;1;01:25:40;5;"86%"
+15;Batiment Principal;6;240;135;205;70;2;01:44:20;6;"83%"
+15;Batiment Principal;7;310;175;265;90;2;02:06:10;7;"80%"
+15;Batiment Principal;8;395;225;340;115;2;02:31:20;9;"77%"
+15;Batiment Principal;9;505;290;430;145;2;03:00:30;10;"75%"
+15;Batiment Principal;10;645;370;555;185;2;03:34:20;12;"72%"
+15;Batiment Principal;11;825;470;710;235;2;04:13:40;15;"69%"
+15;Batiment Principal;12;1060;605;905;300;2;04:59:10;18;"67%"
+15;Batiment Principal;13;1355;775;1160;385;2;05:52:10;21;"64%"
+15;Batiment Principal;14;1735;990;1485;495;2;06:53:30;26;"62%"
+15;Batiment Principal;15;2220;1270;1900;635;2;08:04:40;31;"60%"
+15;Batiment Principal;16;2840;1625;2435;810;3;09:27:10;37;"58%"
+15;Batiment Principal;17;3635;2075;3115;1040;3;11:02:50;44;"56%"
+15;Batiment Principal;18;4650;2660;3990;1330;3;12:54:00;53;"54%"
+15;Batiment Principal;19;5955;3405;5105;1700;3;15:02:50;64;"52%"
+15;Batiment Principal;20;7620;4355;6535;2180;3;17:32:10;77;"50%"
